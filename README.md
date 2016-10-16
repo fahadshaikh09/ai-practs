@@ -5,3 +5,4 @@ This repository contains following codes
 - Best First Search Algorithm
 - Hill Climbing ALgorithm (Local Graph Search Algorithm)
 - Minimax algorithm
+- Alpha Beta Pruning
