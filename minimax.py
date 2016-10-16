@@ -121,9 +121,9 @@ def main():
 	for i in range(depth - 1, 0, -1):
 		value = m.minimax(i)
 		if i % 2:
-			print "Max palyed, foud maximum value nodes ", m.closedList[-1]
+			print "Max palyed, found maximum value nodes ", m.closedList[-1]
 		else:
-			print "min palyed, foud minimum value nodes ", m.closedList[-1]
+			print "min palyed, found minimum value nodes ", m.closedList[-1]
 
 		if value:
 			print "Game end, root node value : ", value
