@@ -1,4 +1,4 @@
-# ai-practs
+# AI-Practs
 This repository contains following codes
 - Depth First Search & Breath First Search
 - A* graph Search Algorithm
@@ -6,3 +6,4 @@ This repository contains following codes
 - Hill Climbing ALgorithm (Local Graph Search Algorithm)
 - Minimax algorithm
 - Alpha Beta Pruning
+- Naive Bayes Classifier 
