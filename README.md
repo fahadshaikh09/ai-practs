@@ -7,3 +7,5 @@ This repository contains following codes
 - Minimax algorithm
 - Alpha Beta Pruning
 - Naive Bayes Classifier 
+- K-means Clustering Algorithm
+- Linear Regression
