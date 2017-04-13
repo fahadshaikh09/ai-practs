@@ -9,3 +9,4 @@ This repository contains following codes
 - Naive Bayes Classifier 
 - K-means Clustering Algorithm
 - Linear Regression
+- K Nearest Neighbors
